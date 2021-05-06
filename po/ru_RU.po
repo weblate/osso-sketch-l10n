@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Заменить существующий файл с тем же именем?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Сохранить набросок перед закрытием?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Набросок"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(нет набросков)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Набросок"
+
+msgid "sket_fi_details_height"
+msgstr "Высота"
+
+msgid "sket_fi_details_pixels"
+msgstr " пикселов"
+
+msgid "sket_fi_details_width"
+msgstr "Ширина"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Не удалось восстановить автоматически сохраненный файл"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Достигнут максимальный размер полотна"
+
+msgid "sket_ib_saved"
+msgstr "Сохранено"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Не удается обрезать"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Очень тонкая"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Средняя"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Жирная"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Тонкая"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Размер полотна"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Увеличить снизу"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Обрезать"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Увеличить слева"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Увеличить справа"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Увеличить сверху"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Свойства"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Создать"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Открыть"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Сохранить"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Сохранить как"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Недостаточно памяти для вывода наброска"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Не удается открыть.\n"
+"Формат файла не поддерживается."
+
+msgid "sket_ti_details_title"
+msgstr "Свойства наброска"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Открыть набросок"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Сохранить набросок"

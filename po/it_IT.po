@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Esiste già un file con lo stesso nome. Sostituirlo?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Salvare il disegno prima di chiudere?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Disegno"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(nessuno disegno)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Disegno"
+
+msgid "sket_fi_details_height"
+msgstr "Altezza"
+
+msgid "sket_fi_details_pixels"
+msgstr " pixel"
+
+msgid "sket_fi_details_width"
+msgstr "Larghezza"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Il recupero dei file salvati automaticamente non è riuscito"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "La dimensione massima della tela è stata raggiunta"
+
+msgid "sket_ib_saved"
+msgstr "Salvataggio effettuato"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Impossibile ritagliare"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Molto sottile"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Medio"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Spesso"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Sottile"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Dimensione tela"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Aggiungi in basso"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Ritaglia"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Aggiungi a sinistra"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Aggiungi a destra"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Aggiungi in alto"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Dettagli"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Nuovo"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Apri"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Salva"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Salva come"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Memoria insufficiente per visualizzare il disegno"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Impossibile aprire.\n"
+"Formato file non supportato."
+
+msgid "sket_ti_details_title"
+msgstr "Dettagli del disegno"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Apri un disegno"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Salva il disegno"

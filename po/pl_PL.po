@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Zastąpić istniejący plik o tej samej nazwie?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Zapisać szkic przed zamknięciem?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Szkic"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(brak szkiców)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Szkic"
+
+msgid "sket_fi_details_height"
+msgstr "Wysokość"
+
+msgid "sket_fi_details_pixels"
+msgstr " piks."
+
+msgid "sket_fi_details_width"
+msgstr "Szerokość"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Błąd odzyskiwania pliku zapisanego automatycznie"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Osiągnięto maksymalną wielkość pola rysunku"
+
+msgid "sket_ib_saved"
+msgstr "Zapisano"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Nie można przyciąć"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "B. cienka"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Średnia"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Gruba"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Cienka"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Rozmiar pola rysowania"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Dodaj na dole"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Przytnij"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Dodaj po lewej"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Dodaj po prawej"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Dodaj na górze"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Szczegóły"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Nowy"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Otwórz"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Zapisz"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Zapisz jako"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Za mało pamięci, aby wyświetlić szkic"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Nie można otworzyć.\n"
+"Nieobsługiwany format pliku."
+
+msgid "sket_ti_details_title"
+msgstr "Szczegóły szkicu"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Otwórz szkic"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Zapisz szkic"

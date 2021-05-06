@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Erstatte eksisterende fil med samme navn?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Lagre skissen før den lukkes?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Skisse"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(ingen skisser)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Skisse"
+
+msgid "sket_fi_details_height"
+msgstr "Høyde"
+
+msgid "sket_fi_details_pixels"
+msgstr " piksler"
+
+msgid "sket_fi_details_width"
+msgstr "Bredde"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Gjenoppretting av automatisk lagret fil mislyktes"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Maksimal lerretsstørrelse nådd"
+
+msgid "sket_ib_saved"
+msgstr "Lagret"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Kan ikke beskjære"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Fin"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Middels"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Tjukk"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Tynn"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Lerretsstørrelse"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Legg til nederst"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Beskjær"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Legg til til venstre"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Legg til til høyre"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Legg til øverst"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Detaljer"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Ny"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Åpne"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Lagre"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Lagre som"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Ikke nok minne til å vise skissen"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Kan ikke åpne.\n"
+"Filformatet støttes ikke."
+
+msgid "sket_ti_details_title"
+msgstr "Skissedetaljer"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Åpne skisse"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Lagre skisse"

@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: es_MX\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "¿Reemplazar archivo existente con el mismo nombre?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"¿Guardar dibujo antes de cerrar?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Dibujo"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(sin dibujos)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Dibujo"
+
+msgid "sket_fi_details_height"
+msgstr "Alto"
+
+msgid "sket_fi_details_pixels"
+msgstr " píxeles"
+
+msgid "sket_fi_details_width"
+msgstr "Ancho"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Error al recuperar archivo guardado automáticamente"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Tamaño máximo de lienzo alcanzado"
+
+msgid "sket_ib_saved"
+msgstr "Guardado"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Imposible recortar"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Muy fino"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Medio"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Grueso"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Fino"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Tamaño de lienzo"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Agregar abajo"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Recortar"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Agregar a la izquierda"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Agregar a la derecha"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Agregar arriba"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Detalles"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Nuevo"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Abrir"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Guardar"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Guardar como"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Memoria insuficiente para mostrar dibujo"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Imposible abrir.\n"
+"Formato de archivo no admitido."
+
+msgid "sket_ti_details_title"
+msgstr "Detalles del dibujo"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Abrir dibujo"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Guardar dibujo"

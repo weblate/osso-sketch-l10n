@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Gleichnamige vorhandene Datei ersetzen?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Skizze vor dem Schließen speichern?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Skizze"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(Keine Skizzen)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Skizze"
+
+msgid "sket_fi_details_height"
+msgstr "Höhe"
+
+msgid "sket_fi_details_pixels"
+msgstr " Pixel"
+
+msgid "sket_fi_details_width"
+msgstr "Breite"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Wiederherstellen der automatisch gespeicherten Datei fehlgeschlagen"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Maximale Leinwandgröße erreicht"
+
+msgid "sket_ib_saved"
+msgstr "Gespeichert"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Zuschneiden nicht möglich"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Fein"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Mittel"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Breit"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Schmal"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Leinwandgröße"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Unten hinzufügen"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Zuschneiden"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Links hinzufügen"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Rechts hinzufügen"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Oben hinzufügen"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Details"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Neu"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Öffnen"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Speichern"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Speich. unter"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Nicht genug Speicher zum Anzeigen der Skizze"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Öffnen nicht möglich.\n"
+"Dateiformat nicht unterstützt."
+
+msgid "sket_ti_details_title"
+msgstr "Skizzendetails"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Skizze öffnen"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Skizze speichern"

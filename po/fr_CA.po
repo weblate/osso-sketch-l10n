@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: fr_CA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Remplacer le fichier portant le même nom ?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Enregistrer le croquis avant fermeture ?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Croquis"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(aucun croquis)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Croquis"
+
+msgid "sket_fi_details_height"
+msgstr "Hauteur"
+
+msgid "sket_fi_details_pixels"
+msgstr " pixels"
+
+msgid "sket_fi_details_width"
+msgstr "Largeur"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Échec de la récupération du fichier enregistré automatiquement"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Taille maximale de la toile"
+
+msgid "sket_ib_saved"
+msgstr "Enregistré"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Impossible de cadrer"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Très fin"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Moyen"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Épais"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Fin"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Taille de la toile"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Ajouter en bas"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Cadrer"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Ajouter à gauche"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Ajouter à droite"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Ajouter en haut"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Détails"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Nouveau"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Ouvrir"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Enregistrer"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Enregistrer sous"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Mémoire insuffisante pour afficher le croquis"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Impossible d'ouvrir.\n"
+"Format de fichier non compatible."
+
+msgid "sket_ti_details_title"
+msgstr "Détails du croquis"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Ouvrir croquis"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Enregistrer croquis"

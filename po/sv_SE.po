@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009.10.13 12:03+0300\n"
+"Last-Translator:\n"
+"Language-Team: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Vill du ersätta befintlig fil med samma namn?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Vill du spara skissen innan den stängs?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Skiss"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(inga skisser)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Skiss"
+
+msgid "sket_fi_details_height"
+msgstr "Höjd"
+
+msgid "sket_fi_details_pixels"
+msgstr " bildpunkter"
+
+msgid "sket_fi_details_width"
+msgstr "Bredd"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Återställning av autosparad fil misslyckades"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Maximal bildyta är nådd"
+
+msgid "sket_ib_saved"
+msgstr "Sparad"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Det gick inte att beskära"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Fin"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Medel"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Tjock"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Tunn"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Bildytans storlek"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Lägg till längst ned"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Beskär"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Lägg till till vänster"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Lägg till till höger"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Lägg till längst upp"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Information"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Ny"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Öppna"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Spara"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Spara som"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Otillräckligt minne för att visa skissen"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Det gick inte att öppna.\n"
+"Filformatet stöds inte."
+
+msgid "sket_ti_details_title"
+msgstr "Skissinformation"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Öppna skiss"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Spara skiss"
