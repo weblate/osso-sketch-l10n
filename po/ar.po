@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-04-27 18:49+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "أستبدال الملف الموجود بنفس الأسم?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"حفظ الرسم قبل الخروج?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "الرسم"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(لايوجد رسمات)"
+
+msgid "sket_ap_sketch_title"
+msgstr "الرسام"
+
+msgid "sket_fi_details_height"
+msgstr "الأرتفاع"
+
+msgid "sket_fi_details_pixels"
+msgstr " بكسل"
+
+msgid "sket_fi_details_width"
+msgstr "العرض"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "فشل بأسترجاع الملف المحفوظ تلقائيا"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "أكبر حد مسموح به للصور"
+
+msgid "sket_ib_saved"
+msgstr "تم الحفظ"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "غير قادر على القص"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "ناعم"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "وسط"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "سميك"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "نحيف"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "حجم المساحة"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "أضافة زر"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "قص"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "أضافة إلى اليسار"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "أضافة إلى اليمين"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "أضافة إلى الأعلى"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "خصائص"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "جديد"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "فتح"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "حفظ"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "حفظ بأسم"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "لايوجد ذاكره كافية لعرض الرسم"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"غير قادر على الفتح.\n"
+"صيغة الملف غير مدعومة."
+
+msgid "sket_ti_details_title"
+msgstr "خصائص الرسم"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "فتح رسمه"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "حفظ الرسم"
+
