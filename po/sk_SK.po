@@ -1,0 +1,112 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2009-10-22 14:55+0200\n"
+"Last-Translator:\n"
+"Language-Team: sk_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Nahradiť existujúci súbor rovnakého názvu?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Uložiť náčrt pred ukončením?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Náčrt"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(žiadne náčrty)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Náčrt"
+
+msgid "sket_fi_details_height"
+msgstr "Výška"
+
+msgid "sket_fi_details_pixels"
+msgstr " pixelov"
+
+msgid "sket_fi_details_width"
+msgstr "Šírka"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Obnovenie automaticky uloženého súboru sa nepodarilo"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Dosiahnutá maximálna veľkosť plátna"
+
+msgid "sket_ib_saved"
+msgstr "Uložené"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Nemožno orezať"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Jemná"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Stredná"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Tlstá"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Tenká"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Veľkosť plátna"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Pridať dole"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Orezanie"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Pridať doľava"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Pridať doprava"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Pridať hore"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Podrobnosti"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Nový"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Otvoriť"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Uložiť"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Uložiť ako"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Nedostatok pamäte pre zobrazenie náčrtu"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Nemožno otvoriť.\n"
+"Nepodporovaný formát súboru."
+
+msgid "sket_ti_details_title"
+msgstr "Podrobnosti náčrtu"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Otvoriť náčrt"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Uložiť náčrt"
