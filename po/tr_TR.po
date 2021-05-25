@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-05-29 22:14+0200\n"
+"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
+"Language-Team: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Aynı isimdeki varolan dosyanın yerini alsın mı?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Kapatmadan önce çizim kaydedilsin mi?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Çizim"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(çizim yok)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Çizim"
+
+msgid "sket_fi_details_height"
+msgstr "Yükseklik"
+
+msgid "sket_fi_details_pixels"
+msgstr " piksel"
+
+msgid "sket_fi_details_width"
+msgstr "Genişlik"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Otomatik kaydedilen dosya kurtarılamadı"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Maksimum tuval boyutuna ulaşıldı"
+
+msgid "sket_ib_saved"
+msgstr "Kaydedildi"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Kırpılamıyor"
+
+msgid "sket_ib_unable_to_redo"
+msgstr "Yinelenemiyor"
+
+msgid "sket_ib_unable_to_undo"
+msgstr "Geri alınamıyor"
+
+msgid "sket_me_main_menu_drawing"
+msgstr "Resim"
+
+msgid "sket_me_main_menu_edit"
+msgstr "Düzenle"
+
+msgid "sket_me_main_menu_recent"
+msgstr "En son"
+
+msgid "sket_me_main_menu_sketch"
+msgstr "Çizim"
+
+msgid "sket_me_menu_drawing_box"
+msgstr "Dikdörtgen"
+
+msgid "sket_me_menu_drawing_brush"
+msgstr "Çizgi genişliği"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Çok İnce"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Orta"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Kalın"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "İnce"
+
+msgid "sket_me_menu_drawing_circle"
+msgstr "Oval"
+
+msgid "sket_me_menu_drawing_color"
+msgstr "Renk"
+
+msgid "sket_me_menu_drawing_eraser"
+msgstr "Silgi"
+
+msgid "sket_me_menu_drawing_line"
+msgstr "Çizgi"
+
+msgid "sket_me_menu_drawing_pen"
+msgstr "Fırça"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Tablo boyutu"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Alta ekle"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Kırp"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Sola ekle"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Sağa ekle"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Üste ekle"
+
+msgid "sket_me_menu_edit_redo"
+msgstr "Yinele"
+
+msgid "sket_me_menu_edit_undo"
+msgstr "Geri al"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Detaylar"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Yeni"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Aç"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Kaydet"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Farklı kaydet"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Çizimi gösterecek kadar bellek mevcut değil"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Açılamıyor.\n"
+"Dosya formatı desteklenmiyor."
+
+msgid "sket_ti_details_title"
+msgstr "Çizim detayları"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Çizim aç"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Çizim kaydet"
