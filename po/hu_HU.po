@@ -1,0 +1,113 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sketch 20091013120336\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-02-01 16:21+0100\n"
+"Last-Translator: Andy1210 <andy1210@gmail.com>\n"
+"Language-Team: hu_HU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Lecseréled a létező fájlt?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr ""
+"Elmented a firkát bezárás előtt?\n"
+"%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Firka"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(nincsenek firkák)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Firka"
+
+msgid "sket_fi_details_height"
+msgstr "Magasság"
+
+msgid "sket_fi_details_pixels"
+msgstr " pixel"
+
+msgid "sket_fi_details_width"
+msgstr "Szélesség"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Automatikusan mentett fájl visszaállítása sikertelen"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Elérted a maximális vászon méretet"
+
+msgid "sket_ib_saved"
+msgstr "Mentve"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Nem lehet levágni"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Finom"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Közepes"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Vastag"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Vékony"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Vászon méret"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Hozzáadás az aljához"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Levágás"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Hozzáadás a bal oldalhoz"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Hozzáadás a jobb oldalhoz"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Hozzáadás a tetejéhez"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Részletek"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Új"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Megnyitás"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Mentés"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Mentés másként"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Nincs elég memória a Firka megjelenítéséhez"
+
+msgid "sket_ni_unsupported_file"
+msgstr ""
+"Nem lehet megnyitni.\n"
+"Nem támogatott fájl formátum."
+
+msgid "sket_ti_details_title"
+msgstr "Firka adatok"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Firka megnyitása"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Firka mentése"
+
