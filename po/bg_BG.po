@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "Запазване върху съществуващия вече файл?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr "Запазване на скицата преди затваряне?\n%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "Скица"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(няма скици)"
+
+msgid "sket_ap_sketch_title"
+msgstr "Скицник"
+
+msgid "sket_fi_details_height"
+msgstr "Височина"
+
+msgid "sket_fi_details_pixels"
+msgstr " точки"
+
+msgid "sket_fi_details_width"
+msgstr "Широчина"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "Неуспешно възстановяване на автоматично запазения файл"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "Достигнат е максималният размер на платното"
+
+msgid "sket_ib_saved"
+msgstr "Запазена"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "Неуспешно изрязване"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "Фина"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "Средна"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "Дебела"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "Тънка"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "Размер на платното"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "Добавяне отдолу"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "Изрязване"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "Добавяне отляво"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "Добавяне отдясно"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "Добавяне отгоре"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "Информация"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "Нова"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "Отваряне"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "Запазване"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "Запазване като"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "Няма достатъчно памет за да бъде показана скицата"
+
+msgid "sket_ni_unsupported_file"
+msgstr "Неуспешно отваряне.\nТози тип файл не се поддържа."
+
+msgid "sket_ti_details_title"
+msgstr "Информация за скица"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "Отваряне на скица"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "Запазване на скица"
