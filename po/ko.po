@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "같은 이름으로 덮어 씌우시겠습니까?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr "종료하기 전에 그림을 저장 할까요?\n%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "스케치"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(그림 없음)"
+
+msgid "sket_ap_sketch_title"
+msgstr "스케치"
+
+msgid "sket_fi_details_height"
+msgstr "높이"
+
+msgid "sket_fi_details_pixels"
+msgstr " 픽셀"
+
+msgid "sket_fi_details_width"
+msgstr "넓이"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "자동 저장된 파일을 불러오는데 실패 하였습니다"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "캔버스가 최대 크기 입니다"
+
+msgid "sket_ib_saved"
+msgstr "저장 됨"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "도려내기를 할 수가 없습니다"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "가늠"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "중간"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "굵음"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "약간 가늠"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "캔버스 크기"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "아래쪽에 추가"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "도려내기"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "왼쪽에 추가"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "오른쪽에 추가"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "위쪽에 추가"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "자세히"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "새로 그리기"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "불러오기"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "저장하기"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "다른 이름으로 저장"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "그림을 표시 하기 위한 메모리가 부족 합니다"
+
+msgid "sket_ni_unsupported_file"
+msgstr "파일을 열 수 없습니다.\n지원되지 않는 파일 종류 입니다."
+
+msgid "sket_ti_details_title"
+msgstr "그림 정보"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "그림 불러오기"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "그림 저장하기"
