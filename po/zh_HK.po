@@ -1,0 +1,111 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.10.13 12:03+0300\n"
+"PO-Revision-Date: 2010-11-30 11:49+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_HK\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "docm_nc_overwrite_sketch"
+msgstr "取代現有同名檔案?"
+
+msgid "docm_nc_save_before_closing_sketch"
+msgstr "在關閉之前儲存繪圖?\n%s"
+
+msgid "sfil_va_save_object_name_stub_sketch"
+msgstr "繪圖"
+
+msgid "sfil_va_select_object_no_objects_sketches"
+msgstr "(沒有繪圖檔案)"
+
+msgid "sket_ap_sketch_title"
+msgstr "繪圖"
+
+msgid "sket_fi_details_height"
+msgstr "高度"
+
+msgid "sket_fi_details_pixels"
+msgstr "像素"
+
+msgid "sket_fi_details_width"
+msgstr "寬度"
+
+msgid "sket_ib_autosave_recover_failed"
+msgstr "無法恢復自動儲存檔案"
+
+msgid "sket_ib_maximum_canvas_size"
+msgstr "畫布已達最大尺寸"
+
+msgid "sket_ib_saved"
+msgstr "已儲存"
+
+msgid "sket_ib_unable_to_crop"
+msgstr "無法剪下"
+
+msgid "sket_me_menu_drawing_brush_fine"
+msgstr "精細"
+
+msgid "sket_me_menu_drawing_brush_medium"
+msgstr "中等"
+
+msgid "sket_me_menu_drawing_brush_thick"
+msgstr "加粗"
+
+msgid "sket_me_menu_drawing_brush_thin"
+msgstr "減淡"
+
+msgid "sket_me_menu_edit_canvas"
+msgstr "畫布尺寸"
+
+msgid "sket_me_menu_edit_canvas_bottom"
+msgstr "向下延伸"
+
+msgid "sket_me_menu_edit_canvas_crop"
+msgstr "剪下"
+
+msgid "sket_me_menu_edit_canvas_left"
+msgstr "向左延伸"
+
+msgid "sket_me_menu_edit_canvas_right"
+msgstr "向右延伸"
+
+msgid "sket_me_menu_edit_canvas_up"
+msgstr "向上延伸"
+
+msgid "sket_me_menu_sketch_details"
+msgstr "詳細資料"
+
+msgid "sket_me_menu_sketch_new"
+msgstr "新增"
+
+msgid "sket_me_menu_sketch_open"
+msgstr "開啟"
+
+msgid "sket_me_menu_sketch_save"
+msgstr "儲存"
+
+msgid "sket_me_menu_sketch_save_as"
+msgstr "另存新檔"
+
+msgid "sket_ni_not_enough_memory"
+msgstr "沒有足夠的記憶體顯示繪圖檔案"
+
+msgid "sket_ni_unsupported_file"
+msgstr "無法開啟.\n檔案格式不被支援."
+
+msgid "sket_ti_details_title"
+msgstr "繪圖檔案詳細資料"
+
+msgid "sket_ti_open_sketch_title"
+msgstr "開啟繪圖檔案"
+
+msgid "sket_ti_save_sketch_title"
+msgstr "儲存繪圖檔案"
